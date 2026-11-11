@@ -1,7 +1,6 @@
 # ARES-Link
 ### Autonomous Resilient Edge-Store-and-Forward Interplanetary Link
-![Uploading image.png…]()
-
+<img width="1501" height="517" alt="image" src="https://github.com/user-attachments/assets/e7d2611b-1d4f-4263-875d-409dade7d040" />
 
 **Store Intelligently. Prioritise Critically. Transmit Adaptively. Resume Reliably.**
 
